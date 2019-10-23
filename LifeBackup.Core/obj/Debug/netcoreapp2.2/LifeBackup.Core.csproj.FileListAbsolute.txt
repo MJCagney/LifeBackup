@@ -1,0 +1,10 @@
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.deps.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.csprojAssemblyReference.cache
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.AssemblyInfoInputs.cache
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.AssemblyInfo.cs
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.dev.json

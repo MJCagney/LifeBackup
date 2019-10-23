@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LifeBackup.Core/1.0.0": {
+        "runtime": {
+          "LifeBackup.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LifeBackup.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

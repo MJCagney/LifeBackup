@@ -1,0 +1,13 @@
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.deps.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.csprojAssemblyReference.cache
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.AssemblyInfo.cs
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.csproj.CopyComplete
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.runtimeconfig.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.runtimeconfig.dev.json
