@@ -48,6 +48,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.3.100.1, )"
+            },
+            "AWSSDK.s3": {
+              "target": "Package",
+              "version": "[3.3.105.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -62,7 +70,11 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.2.4, )"
+              "version": "[3.0.0, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
             }
           },
           "imports": [
@@ -182,6 +194,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "AWSSDK.s3": {
+              "target": "Package",
+              "version": "[3.3.105.1, )"
+            },
             "Microsoft.AspNetCore.App": {
               "target": "Package",
               "version": "[2.2.0, )"

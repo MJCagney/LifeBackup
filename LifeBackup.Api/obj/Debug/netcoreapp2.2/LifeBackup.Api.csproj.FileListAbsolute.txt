@@ -17,3 +17,4 @@ C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Api\obj\Debug\netcoreapp2.2\Li
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Api\obj\Debug\netcoreapp2.2\LifeBackup.Api.csproj.CopyComplete
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Api\obj\Debug\netcoreapp2.2\LifeBackup.Api.dll
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Api\obj\Debug\netcoreapp2.2\LifeBackup.Api.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Api\bin\Debug\netcoreapp2.2\appsettings.json

@@ -7,14 +7,70 @@
   "targets": {
     ".NETCoreApp,Version=v3.0": {
       "LifeBackup.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AWSSDK.S3": "3.3.104.41",
+          "LifeBackup.Core": "1.0.0",
+          "Microsoft.AspNetCore.Razor.Design": "2.2.0"
+        },
         "runtime": {
           "LifeBackup.Infrastructure.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.53": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.53"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.104.41": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.53"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.41"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Razor.Design/2.2.0": {},
+      "LifeBackup.Core/1.0.0": {
+        "runtime": {
+          "LifeBackup.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "LifeBackup.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.53": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-03cF00d+nsdI5x7osDqhKpsxt1tMKKVPKtUkqlPujBafEuCVPMXusvWieI/EEpfkOpqk/7y4Q3hqbN8yhNgaMQ==",
+      "path": "awssdk.core/3.3.103.53",
+      "hashPath": "awssdk.core.3.3.103.53.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.104.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o6Rg/eB6dVrLia+VQ7zqK+hFzxapvqAz+2fwsvxGQWt9msa7dBOi0dKXCmP6fngkkKHoBF4ezz3yQMe/ih28gw==",
+      "path": "awssdk.s3/3.3.104.41",
+      "hashPath": "awssdk.s3.3.3.104.41.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Razor.Design/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VLWK+ZtMMNukY6XjxYHc7mz33vkquoEzQJHm/LCF5REVxIaexLr+UTImljRRJBdUDJluDAQwU+59IX0rFDfURA==",
+      "path": "microsoft.aspnetcore.razor.design/2.2.0",
+      "hashPath": "microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
+    },
+    "LifeBackup.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -6,3 +6,6 @@ C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netco
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.0\LifeBackup.Infrastructure.AssemblyInfo.cs
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.0\LifeBackup.Infrastructure.dll
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.0\LifeBackup.Infrastructure.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.0\LifeBackup.Core.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp3.0\LifeBackup.Core.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp3.0\LifeBackup.Infrastructure.csproj.CopyComplete
