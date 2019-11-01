@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Amazon.S3;
+using LifeBackup.Core.Interfaces;
+using LifeBackup.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +29,7 @@ namespace LifeBackup.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddAWSService<IAmazonS3>(_configuration.GetAWSOptions());
+            services.AddSingleton<IBucketRepository, BucketRepository>();
 
             services.AddMvc();
         }

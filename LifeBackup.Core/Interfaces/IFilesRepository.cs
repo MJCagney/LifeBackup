@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LifeBackup.Core.Communication.Interfaces
+namespace LifeBackup.Core.Interfaces
 {
     public interface IFilesRepository
     {
