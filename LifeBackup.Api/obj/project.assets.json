@@ -4488,7 +4488,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "Microsoft.AspNetCore.App": "2.2.0"
+          "Microsoft.AspNetCore.App": "2.2.0",
+          "newtonsoft.json": "12.0.2"
         },
         "compile": {
           "bin/placeholder/LifeBackup.Core.dll": {}

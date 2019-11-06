@@ -30,6 +30,7 @@ namespace LifeBackup.Api
         {
             services.AddAWSService<IAmazonS3>(_configuration.GetAWSOptions());
             services.AddSingleton<IBucketRepository, BucketRepository>();
+            services.AddSingleton<IFilesRepository, FilesRepository>();
 
             services.AddMvc();
         }
