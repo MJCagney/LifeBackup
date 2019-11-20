@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -120,6 +121,23 @@ namespace LifeBackup.Infrastructure.Repositories
             };
 
             await _s3Client.PutObjectAsync(putObjectRequest);
+        }
+
+        public async Task<GetJsonObjectResponse> GetJsonObject(string bucketName, string fileName)
+        {
+            var request = new GetObjectRequest
+            {
+                BucketName = bucketName,
+                Key = fileName
+            };
+
+            var response = await _s3Client.GetObjectAsync(request);
+
+            using (var reader = new StreamReader(response.ResponseStream))
+            {
+                var contents = reader.ReadToEnd();
+                return JsonConvert.DeserializeObject<GetJsonObjectResponse>(contents);
+            }
         }
     }
 }

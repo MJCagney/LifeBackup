@@ -74,5 +74,14 @@ namespace LifeBackup.Api.Controllers
 
             return Ok();
         }
+
+        [HttpGet]
+        [Route("{bucketName}/getjsonobject")]
+        public async Task<ActionResult<GetJsonObjectResponse>> GetJsonObject(string bucketName, string fileName)
+        {
+            var response = await _filesRepository.GetJsonObject(bucketName, fileName);
+
+            return Ok(response);
+        }
     }
 }
