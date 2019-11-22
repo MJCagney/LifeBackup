@@ -11,3 +11,12 @@ C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\obj\Debug\ne
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Integration.Tests.pdb
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\obj\Debug\netcoreapp2.2\LifeBackup.Integration.Tests.dll
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\obj\Debug\netcoreapp2.2\LifeBackup.Integration.Tests.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Api.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.dll
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Api.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.pdb
+C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Integration.Tests\obj\Debug\netcoreapp2.2\LifeBackup.Integration.Tests.csproj.CopyComplete
