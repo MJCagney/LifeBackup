@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj": {}
+    "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj": {
+    "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj",
         "projectName": "LifeBackup.Api",
-        "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj",
-        "packagesPath": "C:\\Users\\squir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\obj\\",
+        "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\LifeBackup.Api.csproj",
+        "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\squir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,16 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
-                "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj"
+              "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
+                "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj"
               },
-              "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj"
+              "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj"
               }
             }
           }
@@ -47,34 +45,33 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.12.5, )"
+            },
             "AWSSDK.Extensions.NETCore.Setup": {
               "target": "Package",
-              "version": "[3.3.100.1, )"
+              "version": "[3.7.2, )"
             },
-            "AWSSDK.s3": {
+            "AWSSDK.S3": {
               "target": "Package",
-              "version": "[3.3.105.1, )"
+              "version": "[3.7.9.21, )"
             },
             "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.AspNetCore.Razor.Language": {
+              "target": "Package",
+              "version": "[6.0.6, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
-            "Newtonsoft.json": {
-              "target": "Package",
-              "version": "[12.0.2, )"
             }
           },
           "imports": [
@@ -87,24 +84,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
+    "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
         "projectName": "LifeBackup.Core",
-        "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
-        "packagesPath": "C:\\Users\\squir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\obj\\",
+        "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj",
+        "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\squir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,10 +106,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -127,10 +122,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.2.8, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -140,7 +136,7 @@
             },
             "newtonsoft.json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -153,24 +149,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj": {
+    "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
         "projectName": "LifeBackup.Infrastructure",
-        "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\squir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\LifeBackup.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\squir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,13 +171,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
-                "projectPath": "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj"
+              "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj": {
+                "projectPath": "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core\\LifeBackup.Core.csproj"
               }
             }
           }
@@ -197,14 +191,15 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "AWSSDK.s3": {
               "target": "Package",
-              "version": "[3.3.105.1, )"
+              "version": "[3.7.9.21, )"
             },
             "Microsoft.AspNetCore.App": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.2.8, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "target": "Package",
@@ -227,7 +222,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

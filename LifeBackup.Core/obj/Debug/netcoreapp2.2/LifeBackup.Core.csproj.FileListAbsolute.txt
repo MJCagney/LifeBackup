@@ -8,3 +8,16 @@ C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\L
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.pdb
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.json
 C:\Users\squir\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.dev.json
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.deps.json
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.json
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.runtimeconfig.dev.json
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\bin\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.csproj.AssemblyReference.cache
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.AssemblyInfoInputs.cache
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.AssemblyInfo.cs
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\Jim\Source\Repos\LifeBackup\LifeBackup.Core\obj\Debug\netcoreapp2.2\LifeBackup.Core.genruntimeconfig.cache

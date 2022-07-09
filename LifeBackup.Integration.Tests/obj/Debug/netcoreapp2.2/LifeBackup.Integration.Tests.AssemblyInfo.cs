@@ -11,9 +11,9 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Api", "LifeBackup.Api.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Core", "LifeBackup.Core.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\squir\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure", "LifeBackup.Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Api", "LifeBackup.Api.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Core", "LifeBackup.Core.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("LifeBackup.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\Jim\\Source\\Repos\\LifeBackup\\LifeBackup.Infrastructure", "LifeBackup.Infrastructure.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeBackup.Integration.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
